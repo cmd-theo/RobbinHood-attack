@@ -36,4 +36,4 @@ Tested on : Windows 8.1 x64 6.3.9600
 
 - [ ] [Ruben Santamarta : Exploiting Common Flaw in Drivers (2007)]
 - [ ] [CVE-2018-19320-LPE] (https://github.com/hmnthabit/CVE-2018-19320-LPE)
-- [ ] [DisableSVC] (https://raw.githubusercontent.com/rbmm/DisableSvc/main/x64/btsp.exe)
+- [ ] [DisableSVC] (https://github.com/rbmm/DisableSvc)
